@@ -1,0 +1,28 @@
+html{
+  font-family:Helvetica;
+}
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(file:///Users/sebastian/Atom_Projects/Dasmotos/resources/images/head.jpg);
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.Brushes{
+  background-color: mediumspringgreen;
+}
+.Frames{
+  background-color: lightcoral;
+}
+.Paint{
+  background-color: skyblue;
+}
+.offer{
+  font-weight: bold;
+  color: blue;
+}
